@@ -13,7 +13,7 @@ A lightweight and intelligent text editor built using **C++ and Qt GUI**. This e
 ## ✏️ Text Editing
 
 📂 **File Management:** Create, Open, Save files easily.  
-✂️ **Editing Tools:** Cut, Copy, Paste, Crop functionalities.  
+✂️ **Editing Tools:** Cut, Copy, Paste, Crop, Undo/Redo functionalities.  
 🔍 **Zooming:** Zoom In/Out to adjust text visibility.  
 
 ## 🛠 Technologies Used
@@ -21,7 +21,7 @@ A lightweight and intelligent text editor built using **C++ and Qt GUI**. This e
 - **Qt GUI Framework**
 
 ## 📸 Screenshots
-_(Include some screenshots of your editor in action!)_
+![Image](https://github.com/user-attachments/assets/9d49bd95-1f81-4a22-bc5e-83fa88dac0e6)
 
 ## 🚀 Installation
 
@@ -32,8 +32,7 @@ _(Include some screenshots of your editor in action!)_
 ### Steps to Run:
 1. Clone the repository:
    ```bash
-   git clone https://
-   cd TextEditor
+   git clone https://github.com/PriyatharsanR/TextEditor.git
    ```
 2. Open the project in Qt Creator or compile using the terminal:
    ```bash
@@ -51,7 +50,7 @@ _(Include some screenshots of your editor in action!)_
 
 ## 💡 Future Enhancements
 - Spell checking
-- Undo/Redo functionality
+- New Fonts
 - More customizable themes
 
 ## ℹ️ About
